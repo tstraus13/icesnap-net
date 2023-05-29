@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceSnap", "IceSnap.csproj", "{348D26E2-9594-43FB-B740-7C5AA5886190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348D26E2-9594-43FB-B740-7C5AA5886190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348D26E2-9594-43FB-B740-7C5AA5886190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348D26E2-9594-43FB-B740-7C5AA5886190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348D26E2-9594-43FB-B740-7C5AA5886190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB44A327-966A-4993-AFD2-66089511720B}
+	EndGlobalSection
+EndGlobal
